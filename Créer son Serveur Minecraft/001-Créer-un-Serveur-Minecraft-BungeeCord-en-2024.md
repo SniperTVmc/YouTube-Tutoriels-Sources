@@ -1,4 +1,4 @@
-# Épisode 01 - Présentation de Bungeecord
+# Épisode 01 - Créer un Serveur Minecraft BungeeCord en 2024
 
 ## 1. Script de démarrage d'un serveur (fichier .jar) :
 
